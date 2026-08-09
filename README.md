@@ -1,16 +1,25 @@
-## Hi there 👋
+# Vaibhavi Panchal
 
-<!--
-**vaibhavi-panchal19/vaibhavi-panchal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & VLSI Engineering Student | Aspiring ML & Data Professional
 
-Here are some ideas to get you started:
+Third-year Electronics & VLSI Engineering student exploring the
+intersection of **Machine Learning, Data Science, and Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, building predictive models, understanding
+how algorithms behave, and applying computational approaches to
+real-world problems.
+
+Currently focusing on strengthening my foundations in machine learning
+while building practical projects using Python and Scikit-learn.
+
+---
+
+### Currently building projects in:
+
+Python · SQL · Data Analysis · Machine Learning
+
+### Interested in:
+ML applications · Intelligent systems · Network analytics
+
+
+         
